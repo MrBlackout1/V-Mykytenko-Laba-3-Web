@@ -1,0 +1,148 @@
+.site { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1885px;
+	height:1000px;
+	position:absolute;
+}
+.back1 { 
+	width:1885px;
+	height:1000px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.back2 { 
+	background-color:rgba(51.00000075995922, 51.00000075995922, 51.00000075995922, 0.4000000059604645);
+	width:1885px;
+	height:1000px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(images/rectangle_30.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.back3 { 
+	background-color:rgba(51.00000075995922, 51.00000075995922, 51.00000075995922, 1);
+	opacity:0.75;
+	width:1885px;
+	height:1000px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.bron_block { 
+	width:416px;
+	height:572px;
+	position:absolute;
+	left:752px;
+	top:200px;
+}
+.bron_block1 { 
+	background-color:rgba(239, 239, 239, 1);
+	width:416px;
+	height:572px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.bron_b { 
+	background-color:rgba(181.0000044107437, 149.00000631809235, 113.00000086426735, 1);
+	width:137px;
+	height:42px;
+	position:absolute;
+	left:133px;
+	top:480px;
+}
+.bron_b1 { 
+	color:rgba(0, 0, 0, 1);
+	width:97px;
+	height:22px;
+	position:absolute;
+	left:20px;
+	top:10px;
+	font-family:Circe;
+	text-align:center;
+	font-size:16px;
+	letter-spacing:0;
+}
+.nazva { 
+	color:rgba(0, 0, 0, 1);
+	width:246px;
+	height:28px;
+	position:absolute;
+	left:85px;
+	top:146px;
+	font-family:Circe;
+	text-align:center;
+	font-size:20px;
+	letter-spacing:0;
+}
+.imya_block { 
+	color:rgba(0, 0, 0, 1);
+	width:296px;
+	height:52px;
+	position:absolute;
+	left:110px;
+	top:214px;
+}
+.imya { 
+	color:rgba(0, 0, 0, 1);
+	width:25px;
+	height:22px;
+	position:absolute;
+	left:20px;
+	top:15px;
+	font-family:Circe;
+	text-align:right;
+	font-size:16px;
+	letter-spacing:0;
+}
+.tel_block { 
+	width:296px;
+	height:52px;
+	position:absolute;
+	left:110px;
+	top:286px;
+}
+.tel { 
+	color:rgba(0, 0, 0, 1);
+	width:61px;
+	height:22px;
+	position:absolute;
+	left:20px;
+	top:15px;
+	font-family:Circe;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.guest_block { 
+	width:136px;
+	height:52px;
+	position:absolute;
+	left:110px;
+	top:350px;
+}
+.guest { 
+	color:rgba(0, 0, 0, 1);
+	width:89px;
+	height:22px;
+	position:absolute;
+	left:20px;
+	top:15px;
+	font-family:Circe;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+}
+.logo { 
+	width:95px;
+	height:63px;
+	position:absolute;
+	left:150px;
+	top:40px;
+	background-image:url(images/pizza_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
